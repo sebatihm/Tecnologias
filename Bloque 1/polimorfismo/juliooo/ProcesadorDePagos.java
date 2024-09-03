@@ -1,5 +1,4 @@
 package juliooo;
-
 public class ProcesadorDePagos {
     public void procesar(Pago pago){
         pago.procesarPago();

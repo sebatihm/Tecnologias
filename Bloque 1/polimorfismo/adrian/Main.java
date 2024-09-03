@@ -1,4 +1,3 @@
-package adrian;
 class Logger{
     public void log(String... messages){
         System.out.println("Múltiples mensajes:") ;

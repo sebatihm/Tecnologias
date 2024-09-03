@@ -1,5 +1,4 @@
 package juliooo;
-
 public abstract class Pago {
     abstract void procesarPago();
     
