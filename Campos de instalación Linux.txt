@@ -1,0 +1,78 @@
+Campos de instalación Linux:
+Distribución del teclado: es, en, us
+Idioma local: Español
+Perfil: i3, mate, cinnamon, xfce
+Swap: true (boolean)
+Usuarios: Usuario
+Repositorios Opcionales: git, nano
+
+Guardar configuracion
+
+--------------------------------
+InstalationPrefix
+--------------------------------
+hostname: String
+keyboard_layout: Vec<String>
+language: String
+profile: Vec<String>
+Swap: bool
+Users: User
+Optional_Repository: Vec<String>
+----------------------------------
+- from(hostname: String, keyboard_layout: Vec<String>, language: String, profile: Vec<String>, Swap: bool, Users: User, Optional_Repository: Vec<String>)
++ save_config();
+----------------------------------
+
+
+----------------------------------
+User
+----------------------------------
+name: String
+password: String
+----------------------------------
+new()
+set_name()
+set_password()
+----------------------------------
+
+----------------------------------
+Director
+----------------------------------
+default_constructor();
+i3_constructor(&mut impl Builder);
+----------------------------------
+
+----------------------------------
+<< Builder >>
+----------------------------------
+type OutputType;
+set_hostname(String)
+set_keyboard_layout(Vec<String>)
+set_language(String)
+set_profile(Vec<String>)
+set_swap(bool)
+set_users(Vec<User>)
+set_Optional_Repository (Vec<String>)
+-----------------------------------
+
+
+----------------------------------
+PrefixBuilder
+----------------------------------
+- InstalationPrefix config
+----------------------------------
+type OutputType;
+reset()
+set_hostname(String)
+set_keyboard_layout(Vec<String>)
+set_language(String)
+set_profile(Vec<String>)
+set_swap(bool)
+set_users(Vec<User>)
+set_Optional_Repository (Vec<String>)
+build()
+-----------------------------------
+
+
+
+
