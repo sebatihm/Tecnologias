@@ -1,0 +1,15 @@
+/home/sebah/Documentos/college/Tecnologias/Bloque 2/Factory/kevin_julian/FactoryMethod/bin/Debug/net8.0/FactoryMethod
+/home/sebah/Documentos/college/Tecnologias/Bloque 2/Factory/kevin_julian/FactoryMethod/bin/Debug/net8.0/FactoryMethod.deps.json
+/home/sebah/Documentos/college/Tecnologias/Bloque 2/Factory/kevin_julian/FactoryMethod/bin/Debug/net8.0/FactoryMethod.runtimeconfig.json
+/home/sebah/Documentos/college/Tecnologias/Bloque 2/Factory/kevin_julian/FactoryMethod/bin/Debug/net8.0/FactoryMethod.dll
+/home/sebah/Documentos/college/Tecnologias/Bloque 2/Factory/kevin_julian/FactoryMethod/bin/Debug/net8.0/FactoryMethod.pdb
+/home/sebah/Documentos/college/Tecnologias/Bloque 2/Factory/kevin_julian/FactoryMethod/obj/Debug/net8.0/FactoryMethod.GeneratedMSBuildEditorConfig.editorconfig
+/home/sebah/Documentos/college/Tecnologias/Bloque 2/Factory/kevin_julian/FactoryMethod/obj/Debug/net8.0/FactoryMethod.AssemblyInfoInputs.cache
+/home/sebah/Documentos/college/Tecnologias/Bloque 2/Factory/kevin_julian/FactoryMethod/obj/Debug/net8.0/FactoryMethod.AssemblyInfo.cs
+/home/sebah/Documentos/college/Tecnologias/Bloque 2/Factory/kevin_julian/FactoryMethod/obj/Debug/net8.0/FactoryMethod.csproj.CoreCompileInputs.cache
+/home/sebah/Documentos/college/Tecnologias/Bloque 2/Factory/kevin_julian/FactoryMethod/obj/Debug/net8.0/FactoryMethod.sourcelink.json
+/home/sebah/Documentos/college/Tecnologias/Bloque 2/Factory/kevin_julian/FactoryMethod/obj/Debug/net8.0/FactoryMethod.dll
+/home/sebah/Documentos/college/Tecnologias/Bloque 2/Factory/kevin_julian/FactoryMethod/obj/Debug/net8.0/refint/FactoryMethod.dll
+/home/sebah/Documentos/college/Tecnologias/Bloque 2/Factory/kevin_julian/FactoryMethod/obj/Debug/net8.0/FactoryMethod.pdb
+/home/sebah/Documentos/college/Tecnologias/Bloque 2/Factory/kevin_julian/FactoryMethod/obj/Debug/net8.0/FactoryMethod.genruntimeconfig.cache
+/home/sebah/Documentos/college/Tecnologias/Bloque 2/Factory/kevin_julian/FactoryMethod/obj/Debug/net8.0/ref/FactoryMethod.dll
