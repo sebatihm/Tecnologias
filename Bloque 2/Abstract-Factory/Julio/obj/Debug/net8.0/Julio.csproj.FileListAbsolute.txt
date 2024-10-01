@@ -1,0 +1,15 @@
+C:\Users\ZS22017007\Documents\tilin\Bloque 2\Abstract-Factory\Julio\bin\Debug\net8.0\Julio.exe
+C:\Users\ZS22017007\Documents\tilin\Bloque 2\Abstract-Factory\Julio\bin\Debug\net8.0\Julio.deps.json
+C:\Users\ZS22017007\Documents\tilin\Bloque 2\Abstract-Factory\Julio\bin\Debug\net8.0\Julio.runtimeconfig.json
+C:\Users\ZS22017007\Documents\tilin\Bloque 2\Abstract-Factory\Julio\bin\Debug\net8.0\Julio.dll
+C:\Users\ZS22017007\Documents\tilin\Bloque 2\Abstract-Factory\Julio\bin\Debug\net8.0\Julio.pdb
+C:\Users\ZS22017007\Documents\tilin\Bloque 2\Abstract-Factory\Julio\obj\Debug\net8.0\Julio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ZS22017007\Documents\tilin\Bloque 2\Abstract-Factory\Julio\obj\Debug\net8.0\Julio.AssemblyInfoInputs.cache
+C:\Users\ZS22017007\Documents\tilin\Bloque 2\Abstract-Factory\Julio\obj\Debug\net8.0\Julio.AssemblyInfo.cs
+C:\Users\ZS22017007\Documents\tilin\Bloque 2\Abstract-Factory\Julio\obj\Debug\net8.0\Julio.csproj.CoreCompileInputs.cache
+C:\Users\ZS22017007\Documents\tilin\Bloque 2\Abstract-Factory\Julio\obj\Debug\net8.0\Julio.sourcelink.json
+C:\Users\ZS22017007\Documents\tilin\Bloque 2\Abstract-Factory\Julio\obj\Debug\net8.0\Julio.dll
+C:\Users\ZS22017007\Documents\tilin\Bloque 2\Abstract-Factory\Julio\obj\Debug\net8.0\refint\Julio.dll
+C:\Users\ZS22017007\Documents\tilin\Bloque 2\Abstract-Factory\Julio\obj\Debug\net8.0\Julio.pdb
+C:\Users\ZS22017007\Documents\tilin\Bloque 2\Abstract-Factory\Julio\obj\Debug\net8.0\Julio.genruntimeconfig.cache
+C:\Users\ZS22017007\Documents\tilin\Bloque 2\Abstract-Factory\Julio\obj\Debug\net8.0\ref\Julio.dll
