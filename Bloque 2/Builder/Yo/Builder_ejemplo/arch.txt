@@ -1,0 +1,16 @@
+System_prefix_for_linux {
+  User { [User {
+  name: Magdiel
+  password: exodo
+  sudo: true
+} 
+] 
+  }
+  keyboard_layout: en
+  language: Spanish 
+  hostname:  
+  swap: true
+  profiles { []  
+  }
+  optional_repositories: { ["vim"] }
+}

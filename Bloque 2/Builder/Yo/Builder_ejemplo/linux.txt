@@ -1,0 +1,16 @@
+System_prefix_for_linux {
+  User { [User {
+  name: sebas
+  password: sebas
+  sudo: true
+} 
+] 
+  }
+  keyboard_layout: es
+  language: Spanish 
+  hostname: LIS 
+  swap: false
+  profiles { ["Cinnamon"]  
+  }
+  optional_repositories: { ["git", "nano"] }
+}
