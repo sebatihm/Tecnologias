@@ -1,0 +1,15 @@
+C:\Users\ZS22017007\Documents\tilin\Bloque 3\Composite\yorch_2\bin\Debug\net8.0\yorch_2.exe
+C:\Users\ZS22017007\Documents\tilin\Bloque 3\Composite\yorch_2\bin\Debug\net8.0\yorch_2.deps.json
+C:\Users\ZS22017007\Documents\tilin\Bloque 3\Composite\yorch_2\bin\Debug\net8.0\yorch_2.runtimeconfig.json
+C:\Users\ZS22017007\Documents\tilin\Bloque 3\Composite\yorch_2\bin\Debug\net8.0\yorch_2.dll
+C:\Users\ZS22017007\Documents\tilin\Bloque 3\Composite\yorch_2\bin\Debug\net8.0\yorch_2.pdb
+C:\Users\ZS22017007\Documents\tilin\Bloque 3\Composite\yorch_2\obj\Debug\net8.0\yorch_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ZS22017007\Documents\tilin\Bloque 3\Composite\yorch_2\obj\Debug\net8.0\yorch_2.AssemblyInfoInputs.cache
+C:\Users\ZS22017007\Documents\tilin\Bloque 3\Composite\yorch_2\obj\Debug\net8.0\yorch_2.AssemblyInfo.cs
+C:\Users\ZS22017007\Documents\tilin\Bloque 3\Composite\yorch_2\obj\Debug\net8.0\yorch_2.csproj.CoreCompileInputs.cache
+C:\Users\ZS22017007\Documents\tilin\Bloque 3\Composite\yorch_2\obj\Debug\net8.0\yorch_2.sourcelink.json
+C:\Users\ZS22017007\Documents\tilin\Bloque 3\Composite\yorch_2\obj\Debug\net8.0\yorch_2.dll
+C:\Users\ZS22017007\Documents\tilin\Bloque 3\Composite\yorch_2\obj\Debug\net8.0\refint\yorch_2.dll
+C:\Users\ZS22017007\Documents\tilin\Bloque 3\Composite\yorch_2\obj\Debug\net8.0\yorch_2.pdb
+C:\Users\ZS22017007\Documents\tilin\Bloque 3\Composite\yorch_2\obj\Debug\net8.0\yorch_2.genruntimeconfig.cache
+C:\Users\ZS22017007\Documents\tilin\Bloque 3\Composite\yorch_2\obj\Debug\net8.0\ref\yorch_2.dll

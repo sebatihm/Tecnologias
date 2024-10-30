@@ -1,0 +1,3 @@
+interface IPromedio{
+    double getPromedio();
+}
